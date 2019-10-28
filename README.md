@@ -14,16 +14,24 @@
 
     ```shell
     git clone https://github.com/the-akira/gatsblog.git
+
+
+2.  **Install Packages**
+
+    Navigate into the site’s directory and:
+
+    ```shell
+    npm install
     ```
 
-2.  **Start developing**
+3.  **Start developing**
 
     Navigate into the site’s directory and start it up.
 
     ```shell
     gatsby develop
     ```
-3.  **Build**
+4.  **Build**
 
     Navigate into the site’s directory and build it up.
 
@@ -31,6 +39,6 @@
     gatsby build
     ```
 
-4.  **Deploy**
+5.  **Deploy**
 
     You can easily deploy the static content to [Netlify](https://www.netlify.com/)
