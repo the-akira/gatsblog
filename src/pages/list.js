@@ -29,12 +29,12 @@ export default () => (
     `}>CSS Modules are cool</p>
     <User 
       username="Jane Doe"
-      avatar="https://i.imgur.com/yk6ReBW.jpg"
+      avatar="https://raw.githubusercontent.com/the-akira/gatsblog/master/static/im2.jpeg"
       excerpt="I'm Jane Doe. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     />
     <User
       username="Bob Smith"
-      avatar="https://i.imgur.com/kCeGLaP.jpg"
+      avatar="https://raw.githubusercontent.com/the-akira/gatsblog/master/static/img3.jpeg"
       excerpt="I'm Bob Smith, a vertically aligned type of guy. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     />
   </Container>

@@ -12,7 +12,7 @@ for i in range(100):
 	print(i)
 ```
 
-![img](http://www.alchemywebsite.com/images/MY13.jpg)
+![img](https://raw.githubusercontent.com/the-akira/gatsblog/master/static/img1.jpg)
 
 First Header  | Second Header
 ------------- | -------------
